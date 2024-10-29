@@ -6,13 +6,13 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'icook.tw:2053#官方优选域名',
+    'icook.tw:2053#官方优选域名',
     'visa.cn:2053#官方优选域名',
     'visa.com.hk:2053#官方优选域名',
     'visa.com.sg:2053#官方优选域名',
     'visa.cn:2053#官方优选域名',
-	'cf.001315.xyz#zrf',
-	'blog.001315.xyz#zrf',
+    'cf.001315.xyz#zrf',
+    'blog.001315.xyz#zrf',
 ];
 
 // 设置优选地址api接口
