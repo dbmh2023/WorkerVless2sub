@@ -23,9 +23,9 @@ let addressesapi = [
 	'https://raw.githubusercontent.com/dbmh2023/addressesapi/refs/heads/main/us.txt',
 	'https://raw.githubusercontent.com/dbmh2023/addressesapi/main/ipv4.txt',
 	'https://addressesapi.090227.xyz/ct',
-    'https://addressesapi.090227.xyz/cmcc',
+        'https://addressesapi.090227.xyz/cmcc',
 	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
-    'https://addapi.kxgv.us.kg/addressesapi.txt?token=ibpb',
+        'https://addapi.kxgv.us.kg/addressesapi.txt?token=ibpb',
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
