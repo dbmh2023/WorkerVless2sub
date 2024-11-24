@@ -11,8 +11,6 @@ let addresses = [
     'visa.com.hk:2053#官方优选域名',
     'visa.com.sg:2053#官方优选域名',
     'visa.cn:2053#官方优选域名',
-    'cf.001315.xyz#zrf',
-    'blog.001315.xyz#zrf',
 ];
 
 // 设置优选地址api接口
