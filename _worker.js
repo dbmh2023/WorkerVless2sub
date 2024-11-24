@@ -54,7 +54,7 @@ let edgetunnel = 'ed';
 let RproxyIP = 'false';
 let proxyIPs = [//无法匹配到节点名就随机分配以下ProxyIP域名
 	'proxyip.multacom.fxxk.dedyn.io',
-	'ts.hpc.tw',
+	'sjc.o00o.ooo',
 	'proxyip.vultr.fxxk.dedyn.io',
 ];
 let CMproxyIPs = [
